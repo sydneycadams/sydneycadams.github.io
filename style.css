@@ -12,26 +12,50 @@ selector{
 
 */
 
+body {
+  background-color: white
+}
 
-body{
+h1 {
+  color: #4f3339;
+  font-family: 'Loved by the King', cursive;
+  font-size: 40px;
+  
+}
 
-   background-color: white
+h2 {color: #4f333;
+  font-family: 'Lato', sans-serif;
+}
 
+#header {
+  text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #4f3339;
+    color: #e3d0c3;
+    font-family: 'Lato', sans-serif;
+  
+}
+li {
+  display: inline;
+  
+  
+} 
+li a {
+    color: #e3d0c3;
+    padding: .2em 1em;
+    text-decoration: none;
+    transition: .5s ease;
 }
 
 
-
-h1{
-
-   color: #4f3339;
-   font-family: 'Loved by the King', cursive;
-   
-
-}
-
-
-#header{
-
-   text-align:center;
-
+li a:hover {
+    background-color: #ffffff;
+    color: #4f3339;
+    transition: 1s ease;
+    
 }
