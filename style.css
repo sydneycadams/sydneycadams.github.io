@@ -15,7 +15,7 @@ selector{
 
 body{
 
-   background-color: lightgreen
+   background-color: white
 
 }
 
@@ -23,7 +23,9 @@ body{
 
 h1{
 
-   text-decoration:underline
+   text-decoration:none
+   color: #4f3339;
+   
 
 }
 
