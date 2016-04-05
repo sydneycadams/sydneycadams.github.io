@@ -19,7 +19,9 @@ body {
 h1 {
   color: #4f3339;
   font-family: 'Loved by the King', cursive;
-  font-size: 40px;
+  font-size: 5em;
+  line-height: 60%;
+ 
   
 }
 
