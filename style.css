@@ -1,15 +1,8 @@
 /*
-
 CSS: element, id, class
-
-
 selector{
-
    property:value;
-
-
 }
-
 */
 
 body {
@@ -18,7 +11,7 @@ body {
 
 h1 {
   color: #4f3339;
-  font-family: 'Loved by the King', cursive;
+  font-family: 'Montserrat', sans-serif;
   font-size: 64px;
   line-height: 60%;
  
@@ -28,6 +21,9 @@ h1 {
 h2 {color: #4f333;
   font-family: 'Lato', sans-serif;
 }
+
+p {color: black;
+font-family: "Lato", sans-serif;}
 
 #header {
   text-align: center;
